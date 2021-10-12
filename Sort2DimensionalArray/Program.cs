@@ -57,7 +57,7 @@ namespace Sort2DimensionalArray
                     // Starting from the second line
                     if (i > 0)
                     {
-                        // Switch lines if current sum is less than previous one
+                        // Swap lines if current sum is less than previous one
                         if (currentSum < previousSum)
                         {
                             isSorted = false;
