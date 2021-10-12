@@ -2,6 +2,7 @@
 
 namespace Sort2DimensionalArray
 {
+    // This program sorts the lines in two-dimensional array by the sum of the values in the line
     class Program
     {
         static void InitializeArray(int[,] array)
